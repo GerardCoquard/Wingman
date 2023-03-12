@@ -1,0 +1,4184 @@
+fileFormatVersion: 2
+guid: de75fccbc8780b6438fbb50a8a8e41f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8580021279897599358
+    second: StormBorder22_0
+  - first:
+      213: 4075564707675048069
+    second: StormBorder22_1
+  - first:
+      213: 1745430363372305390
+    second: StormBorder22_2
+  - first:
+      213: 2771787156463424956
+    second: StormBorder22_3
+  - first:
+      213: 6603006620398888282
+    second: StormBorder22_4
+  - first:
+      213: 8754151735533081035
+    second: StormBorder22_5
+  - first:
+      213: 1322587180827891821
+    second: StormBorder22_6
+  - first:
+      213: -560104354783527772
+    second: StormBorder22_7
+  - first:
+      213: -1354429575160324869
+    second: StormBorder22_8
+  - first:
+      213: -5680871513017620916
+    second: StormBorder22_9
+  - first:
+      213: 7612256067169422626
+    second: StormBorder22_10
+  - first:
+      213: -2389273353113742466
+    second: StormBorder22_11
+  - first:
+      213: -5265188536745054290
+    second: StormBorder22_12
+  - first:
+      213: 5706078025839546733
+    second: StormBorder22_13
+  - first:
+      213: 8911563606330860711
+    second: StormBorder22_14
+  - first:
+      213: 5964609713280320266
+    second: StormBorder22_15
+  - first:
+      213: 2858413821453182601
+    second: StormBorder22_16
+  - first:
+      213: 8209913806855409916
+    second: StormBorder22_17
+  - first:
+      213: 709427794782702670
+    second: StormBorder22_18
+  - first:
+      213: -810181927384805125
+    second: StormBorder22_19
+  - first:
+      213: 7398554385455324838
+    second: StormBorder22_20
+  - first:
+      213: 5189004914855125784
+    second: StormBorder22_21
+  - first:
+      213: -873518407367727630
+    second: StormBorder22_22
+  - first:
+      213: -3382590739478427038
+    second: StormBorder22_23
+  - first:
+      213: -8065618308166333570
+    second: StormBorder22_24
+  - first:
+      213: -2908070823650811318
+    second: StormBorder22_25
+  - first:
+      213: -8558911519219065360
+    second: StormBorder22_26
+  - first:
+      213: 1849423994848434877
+    second: StormBorder22_27
+  - first:
+      213: -5759655540929422799
+    second: StormBorder22_28
+  - first:
+      213: -6659763987937606918
+    second: StormBorder22_29
+  - first:
+      213: 6010717774410708478
+    second: StormBorder22_30
+  - first:
+      213: -4191886591831189277
+    second: StormBorder22_31
+  - first:
+      213: -7479035641806946728
+    second: StormBorder22_32
+  - first:
+      213: -5565038920573148039
+    second: StormBorder22_33
+  - first:
+      213: -7423344984172774720
+    second: StormBorder22_34
+  - first:
+      213: -1633229215536652725
+    second: StormBorder22_35
+  - first:
+      213: -4464008385069623023
+    second: StormBorder22_36
+  - first:
+      213: 8996363723738379671
+    second: StormBorder22_37
+  - first:
+      213: -5197051549112473492
+    second: StormBorder22_38
+  - first:
+      213: -8423650558862250334
+    second: StormBorder22_39
+  - first:
+      213: -8382320183987149041
+    second: StormBorder22_40
+  - first:
+      213: -2543189782671242655
+    second: StormBorder22_41
+  - first:
+      213: -445405772827263059
+    second: StormBorder22_42
+  - first:
+      213: 6420818573398448019
+    second: StormBorder22_43
+  - first:
+      213: 1207010080599139982
+    second: StormBorder22_44
+  - first:
+      213: -5927495262293742341
+    second: StormBorder22_45
+  - first:
+      213: 5305969402403756869
+    second: StormBorder22_46
+  - first:
+      213: -188952941061881234
+    second: StormBorder22_47
+  - first:
+      213: 7299223156394096939
+    second: StormBorder22_48
+  - first:
+      213: -4889573922718525754
+    second: StormBorder22_49
+  - first:
+      213: 2304971632881410529
+    second: StormBorder22_50
+  - first:
+      213: 2284606329676659484
+    second: StormBorder22_51
+  - first:
+      213: 5267329656667991446
+    second: StormBorder22_52
+  - first:
+      213: 4054324330639961659
+    second: StormBorder22_53
+  - first:
+      213: 8179977344488011255
+    second: StormBorder22_54
+  - first:
+      213: -1205542353584481061
+    second: StormBorder22_55
+  - first:
+      213: -6255019774732625434
+    second: StormBorder22_56
+  - first:
+      213: 3086787306825045077
+    second: StormBorder22_57
+  - first:
+      213: 3655013070764438247
+    second: StormBorder22_58
+  - first:
+      213: -7376327382251735233
+    second: StormBorder22_59
+  - first:
+      213: -5352497833730552916
+    second: StormBorder22_60
+  - first:
+      213: -1521119386084272146
+    second: StormBorder22_61
+  - first:
+      213: -8982278255842079881
+    second: StormBorder22_62
+  - first:
+      213: 1617957405515735571
+    second: StormBorder22_63
+  - first:
+      213: -6706493287554585677
+    second: StormBorder22_64
+  - first:
+      213: -1846383686152083491
+    second: StormBorder22_65
+  - first:
+      213: 1204390442468517563
+    second: StormBorder22_66
+  - first:
+      213: -33150835358421926
+    second: StormBorder22_67
+  - first:
+      213: 2586926373444905602
+    second: StormBorder22_68
+  - first:
+      213: 3876929070803663430
+    second: StormBorder22_69
+  - first:
+      213: 6669462220672421706
+    second: StormBorder22_70
+  - first:
+      213: -7814071623422983695
+    second: StormBorder22_71
+  - first:
+      213: -5077695457089805933
+    second: StormBorder22_72
+  - first:
+      213: 5758420613082161049
+    second: StormBorder22_73
+  - first:
+      213: -5680858952933465868
+    second: StormBorder22_74
+  - first:
+      213: -3257980228675219598
+    second: StormBorder22_75
+  - first:
+      213: -4458490421518814463
+    second: StormBorder22_76
+  - first:
+      213: -1397933613201553347
+    second: StormBorder22_77
+  - first:
+      213: -3190089126499780793
+    second: StormBorder22_78
+  - first:
+      213: 8964944976150265142
+    second: StormBorder22_79
+  - first:
+      213: 1777769220443820157
+    second: StormBorder22_80
+  - first:
+      213: 3249544814389250649
+    second: StormBorder22_81
+  - first:
+      213: 5254267975792023484
+    second: StormBorder22_82
+  - first:
+      213: 1806839962692239351
+    second: StormBorder22_83
+  - first:
+      213: 809650776490359178
+    second: StormBorder22_84
+  - first:
+      213: 8858136678935237003
+    second: StormBorder22_85
+  - first:
+      213: 6646221873660218469
+    second: StormBorder22_86
+  - first:
+      213: 311993440463316589
+    second: StormBorder22_87
+  - first:
+      213: -5657139636715127002
+    second: StormBorder22_88
+  - first:
+      213: -3700474448474337116
+    second: StormBorder22_89
+  - first:
+      213: -3768235008568681795
+    second: StormBorder22_90
+  - first:
+      213: 140864028691164947
+    second: StormBorder22_91
+  - first:
+      213: -7277965935965152169
+    second: StormBorder22_92
+  - first:
+      213: -5412468219096898266
+    second: StormBorder22_93
+  - first:
+      213: 784420854703414391
+    second: StormBorder22_94
+  - first:
+      213: -2588413684574426313
+    second: StormBorder22_95
+  - first:
+      213: 5513710612467646026
+    second: StormBorder22_96
+  - first:
+      213: -5606650680061843934
+    second: StormBorder22_97
+  - first:
+      213: -6952588200788537375
+    second: StormBorder22_98
+  - first:
+      213: -4686001577888101568
+    second: StormBorder22_99
+  - first:
+      213: 5643113873881967965
+    second: StormBorder22_100
+  - first:
+      213: 283703852747626997
+    second: StormBorder22_101
+  - first:
+      213: -8482071520200197455
+    second: StormBorder22_102
+  - first:
+      213: 4600016890284138292
+    second: StormBorder22_103
+  - first:
+      213: 4903667725715710015
+    second: StormBorder22_104
+  - first:
+      213: 2381492003615338374
+    second: StormBorder22_105
+  - first:
+      213: -4873269239816762490
+    second: StormBorder22_106
+  - first:
+      213: 8674258995591838108
+    second: StormBorder22_107
+  - first:
+      213: 674242829483294649
+    second: StormBorder22_108
+  - first:
+      213: 5007516424344018663
+    second: StormBorder22_109
+  - first:
+      213: 6882013727796966542
+    second: StormBorder22_110
+  - first:
+      213: -4654937132247273829
+    second: StormBorder22_111
+  - first:
+      213: -6387728007512845452
+    second: StormBorder22_112
+  - first:
+      213: 8490355062343344592
+    second: StormBorder22_113
+  - first:
+      213: -6800453854438211537
+    second: StormBorder22_114
+  - first:
+      213: 7201210037295948490
+    second: StormBorder22_115
+  - first:
+      213: -2956322543419745532
+    second: StormBorder22_116
+  - first:
+      213: -1724542326682591500
+    second: StormBorder22_117
+  - first:
+      213: 2168308370339600560
+    second: StormBorder22_118
+  - first:
+      213: 5593013920938687073
+    second: StormBorder22_119
+  - first:
+      213: -8657952698570228619
+    second: StormBorder22_120
+  - first:
+      213: 7624100646854904148
+    second: StormBorder22_121
+  - first:
+      213: 6429520647752675456
+    second: StormBorder22_122
+  - first:
+      213: 2404787196239611902
+    second: StormBorder22_123
+  - first:
+      213: 3443178847353391383
+    second: StormBorder22_124
+  - first:
+      213: -3991557895144916558
+    second: StormBorder22_125
+  - first:
+      213: -2546625140694817032
+    second: StormBorder22_126
+  - first:
+      213: -7672417599378815656
+    second: StormBorder22_127
+  - first:
+      213: 4087963817187634966
+    second: StormBorder22_128
+  - first:
+      213: -8322138959754761700
+    second: StormBorder22_129
+  - first:
+      213: -2814387152320562147
+    second: StormBorder22_130
+  - first:
+      213: 7128578838634966620
+    second: StormBorder22_131
+  - first:
+      213: 9186099321299182792
+    second: StormBorder22_132
+  - first:
+      213: -6326538710212783357
+    second: StormBorder22_133
+  - first:
+      213: 1990095208762292870
+    second: StormBorder22_134
+  - first:
+      213: -9010226733736657800
+    second: StormBorder22_135
+  - first:
+      213: -2061241994092649106
+    second: StormBorder22_136
+  - first:
+      213: 4059076489704186897
+    second: StormBorder22_137
+  - first:
+      213: -1802132313622899583
+    second: StormBorder22_138
+  - first:
+      213: -7999612686715541047
+    second: StormBorder22_139
+  - first:
+      213: 8243608454780075485
+    second: StormBorder22_140
+  - first:
+      213: -8234331824616849495
+    second: StormBorder22_141
+  - first:
+      213: -1228669807061665916
+    second: StormBorder22_142
+  - first:
+      213: -8831850395584310606
+    second: StormBorder22_143
+  - first:
+      213: -5423770048977486411
+    second: StormBorder22_144
+  - first:
+      213: 502489677331174080
+    second: StormBorder22_145
+  - first:
+      213: -5318071469442880931
+    second: StormBorder22_146
+  - first:
+      213: 9005599529808176305
+    second: StormBorder22_147
+  - first:
+      213: 5774611044310449658
+    second: StormBorder22_148
+  - first:
+      213: -1630418670530099538
+    second: StormBorder22_149
+  - first:
+      213: 9204272196821269121
+    second: StormBorder22_150
+  - first:
+      213: 7300708049639428437
+    second: StormBorder22_151
+  - first:
+      213: -1941153260875737353
+    second: StormBorder22_152
+  - first:
+      213: -4480625869549830245
+    second: StormBorder22_153
+  - first:
+      213: -214071076617254286
+    second: StormBorder22_154
+  - first:
+      213: -5724463417464124206
+    second: StormBorder22_155
+  - first:
+      213: 6381829996422286356
+    second: StormBorder22_156
+  - first:
+      213: 8455814041182603867
+    second: StormBorder22_157
+  - first:
+      213: -1679714641280486463
+    second: StormBorder22_158
+  - first:
+      213: -5450969281468185647
+    second: StormBorder22_159
+  - first:
+      213: -341157252760379975
+    second: StormBorder22_160
+  - first:
+      213: -7427002066133016949
+    second: StormBorder22_161
+  - first:
+      213: -7760505403817468394
+    second: StormBorder22_162
+  - first:
+      213: -6584489133713096919
+    second: StormBorder22_163
+  - first:
+      213: -1728249150098251263
+    second: StormBorder22_164
+  - first:
+      213: 6607592401234326377
+    second: StormBorder22_165
+  - first:
+      213: -4868404420319309548
+    second: StormBorder22_166
+  - first:
+      213: 8505798509431084507
+    second: StormBorder22_167
+  - first:
+      213: -5089550923321706434
+    second: StormBorder22_168
+  - first:
+      213: -6193562616858764451
+    second: StormBorder22_169
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StormBorder22_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1588
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7db69925eb521770800000000000000
+      internalID: 8580021279897599358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1588
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588071422805f8830800000000000000
+      internalID: 4075564707675048069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1588
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebbcf4faa3093810800000000000000
+      internalID: 1745430363372305390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb51ef5bbbd577620800000000000000
+      internalID: 2771787156463424956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55ad6a798792ab50800000000000000
+      internalID: 6603006620398888282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1915a3f9efc7970800000000000000
+      internalID: 8754151735533081035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685bb99806ca5210800000000000000
+      internalID: 1322587180827891821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7aff8e0c1a38f0800000000000000
+      internalID: -560104354783527772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc194b3a79143de0800000000000000
+      internalID: -1354429575160324869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e2fb157d7921b0800000000000000
+      internalID: -5680871513017620916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d02f6cf8a24a960800000000000000
+      internalID: 7612256067169422626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7359545b8897ded0800000000000000
+      internalID: -2389273353113742466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf2ad70cea4ee6b0800000000000000
+      internalID: -5265188536745054290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6114de7bbf003f40800000000000000
+      internalID: 5706078025839546733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a466ac62eb3cab70800000000000000
+      internalID: 8911563606330860711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a030befaeec86c250800000000000000
+      internalID: 5964609713280320266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a8c0e9302ba720800000000000000
+      internalID: 2858413821453182601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0113efb197fe170800000000000000
+      internalID: 8209913806855409916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ccfc512d468d900800000000000000
+      internalID: 709427794782702670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf099ce54d7a1c4f0800000000000000
+      internalID: -810181927384805125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae197ca302fca660800000000000000
+      internalID: 7398554385455324838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81322bf3a7c030840800000000000000
+      internalID: 5189004914855125784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e418f2a3a0e3f0800000000000000
+      internalID: -873518407367727630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26accd8e4af9e01d0800000000000000
+      internalID: -3382590739478427038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bcbd7d1ea211090800000000000000
+      internalID: -8065618308166333570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42ad965ef474a7d0800000000000000
+      internalID: -2908070823650811318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd2f00253a83980800000000000000
+      internalID: -8558911519219065360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba560c13597aa910800000000000000
+      internalID: 1849423994848434877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a9a4e2dc79110b0800000000000000
+      internalID: -5759655540929422799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24a0b10f3c393a0800000000000000
+      internalID: -6659763987937606918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef570ec38fb5a6350800000000000000
+      internalID: 6010717774410708478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8dd23ba5d63d5c0800000000000000
+      internalID: -4191886591831189277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e7c9b95b0253890800000000000000
+      internalID: -7479035641806946728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a30a269205c2b0800000000000000
+      internalID: -5565038920573148039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3435411bfaf890800000000000000
+      internalID: -7423344984172774720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed5238eaa9559e0800000000000000
+      internalID: -1633229215536652725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195f8d6608ac02c0800000000000000
+      internalID: -4464008385069623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f2a7542189dc70800000000000000
+      internalID: 8996363723738379671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e1c7b62d50e7b0800000000000000
+      internalID: -5197051549112473492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeaef6727e291b80800000000000000
+      internalID: -8423650558862250334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ebdf34340cab80800000000000000
+      internalID: -8382320183987149041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a4a77fd56c4bcd0800000000000000
+      internalID: -2543189782671242655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daff8b93fc991d9f0800000000000000
+      internalID: -445405772827263059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39715aa39745b1950800000000000000
+      internalID: 6420818573398448019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866d66f54920c010800000000000000
+      internalID: 1207010080599139982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcab23d67e4dbda0800000000000000
+      internalID: -5927495262293742341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b1e5b2f0792a940800000000000000
+      internalID: 5305969402403756869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62cdbc1d44b06df0800000000000000
+      internalID: -188952941061881234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29fc2da9cc0c4560800000000000000
+      internalID: 7299223156394096939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c659516c6eb42cb0800000000000000
+      internalID: -4889573922718525754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1af33ec77ecff10800000000000000
+      internalID: 2304971632881410529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b7cfb3a5d84bf10800000000000000
+      internalID: 2284606329676659484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d639c4a60591940800000000000000
+      internalID: 5267329656667991446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea40c7f7ad34830800000000000000
+      internalID: 4054324330639961659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f573f03e0e158170800000000000000
+      internalID: 8179977344488011255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc98ecdd9d054fe0800000000000000
+      internalID: -1205542353584481061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99408c7a4b139a0800000000000000
+      internalID: -6255019774732625434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554dd7873b876da20800000000000000
+      internalID: 3086787306825045077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2f254d50739b230800000000000000
+      internalID: 3655013070764438247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f5e9c35502a990800000000000000
+      internalID: -7376327382251735233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab4177349b18b5b0800000000000000
+      internalID: -5352497833730552916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79c734af5e3eae0800000000000000
+      internalID: -1521119386084272146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b41d63489885380800000000000000
+      internalID: -8982278255842079881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3126a7120b3247610800000000000000
+      internalID: 1617957405515735571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb64c233efbde2a0800000000000000
+      internalID: -6706493287554585677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd724dbe1d35066e0800000000000000
+      internalID: -1846383686152083491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6263ee9bad6b010800000000000000
+      internalID: 1204390442468517563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c247aad793a8ff0800000000000000
+      internalID: -33150835358421926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae54d94db96e320800000000000000
+      internalID: 2586926373444905602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a33a4f27e9dc530800000000000000
+      internalID: 3876929070803663430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f411aad80be8c50800000000000000
+      internalID: 6669462220672421706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c96c5247de8390800000000000000
+      internalID: -7814071623422983695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912c8272e66889b0800000000000000
+      internalID: -5077695457089805933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9c06c9050aef40800000000000000
+      internalID: 5758420613082161049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ad4b71e88921b0800000000000000
+      internalID: -5680858952933465868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f41985e3459c2d0800000000000000
+      internalID: -3257980228675219598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b3ee65924022c0800000000000000
+      internalID: -4458490421518814463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380b8d09ca899ce0800000000000000
+      internalID: -1397933613201553347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f42d57d68ab3d0800000000000000
+      internalID: -3190089126499780793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_79
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dfb5e15f1e96c70800000000000000
+      internalID: 8964944976150265142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705d2ddfa7eba810800000000000000
+      internalID: 1777769220443820157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4267bac3b81d20800000000000000
+      internalID: 3249544814389250649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb75bcbb2e8eae840800000000000000
+      internalID: 5254267975792023484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff304e7f5f231910800000000000000
+      internalID: 1806839962692239351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89b3dc67157c3b00800000000000000
+      internalID: 809650776490359178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811bc7806c6eea70800000000000000
+      internalID: 8858136678935237003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc2f5b49f1c3c50800000000000000
+      internalID: 6646221873660218469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66611f816c645400800000000000000
+      internalID: 311993440463316589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_88
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fffc4297dcd71b0800000000000000
+      internalID: -5657139636715127002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_89
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a01746581645acc0800000000000000
+      internalID: -3700474448474337116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba9214893a84bbc0800000000000000
+      internalID: -3768235008568681795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_91
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f64c7761374f100800000000000000
+      internalID: 140864028691164947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c5763aa887ffa90800000000000000
+      internalID: -7277965935965152169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62563aac4dc03e4b0800000000000000
+      internalID: -5412468219096898266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c510f7c92d2ea00800000000000000
+      internalID: 784420854703414391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6e27c77b141cd0800000000000000
+      internalID: -2588413684574426313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7f62d692a48c40800000000000000
+      internalID: 5513710612467646026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226263b69ec2132b0800000000000000
+      internalID: -5606650680061843934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4d662ed1738f90800000000000000
+      internalID: -6952588200788537375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b4f05746af7feb0800000000000000
+      internalID: -4686001577888101568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_100
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d20d77b2e505e40800000000000000
+      internalID: 5643113873881967965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f99e64a62befe300800000000000000
+      internalID: 283703852747626997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba720f64e0a94a80800000000000000
+      internalID: -8482071520200197455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fde226dfa86df30800000000000000
+      internalID: 4600016890284138292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3025d7d0d35d0440800000000000000
+      internalID: 4903667725715710015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fecee0c52cc0120800000000000000
+      internalID: 2381492003615338374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b42e1327bae5cb0800000000000000
+      internalID: -4873269239816762490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99fcf92998216870800000000000000
+      internalID: 8674258995591838108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb4b7f7446b5900800000000000000
+      internalID: 674242829483294649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee95ff28a54e7540800000000000000
+      internalID: 5007516424344018663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8433b0e503d18f50800000000000000
+      internalID: 6882013727796966542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e20a45757566fb0800000000000000
+      internalID: -4654937132247273829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4731266883b3a57a0800000000000000
+      internalID: -6387728007512845452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_113
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12ae302fcc3d570800000000000000
+      internalID: 8490355062343344592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2046ceef3fef91a0800000000000000
+      internalID: -6800453854438211537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a0021066dfe360800000000000000
+      internalID: 7201210037295948490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9cfd5f4809f6d0800000000000000
+      internalID: -2956322543419745532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe55f114e13118e0800000000000000
+      internalID: -1724542326682591500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8199189f0671e10800000000000000
+      internalID: 2168308370339600560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7d5d27806e9d40800000000000000
+      internalID: 5593013920938687073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c369774e5c8d780800000000000000
+      internalID: -8657952698570228619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459cc93e42f3ec960800000000000000
+      internalID: 7624100646854904148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080765dc6fe3a3950800000000000000
+      internalID: 6429520647752675456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef70540c6358f5120800000000000000
+      internalID: 2404787196239611902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_124
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71943ae3be0a8cf20800000000000000
+      internalID: 3443178847353391383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_125
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b93b771e332b98c0800000000000000
+      internalID: -3991557895144916558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66ec85de198acd0800000000000000
+      internalID: -2546625140694817032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550294f7d8168590800000000000000
+      internalID: -7672417599378815656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f6e1ace6d5bb830800000000000000
+      internalID: 4087963817187634966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae06c65b2d18c80800000000000000
+      internalID: -8322138959754761700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7285dbc941f8d0800000000000000
+      internalID: -2814387152320562147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e24365faccde260800000000000000
+      internalID: 7128578838634966620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ae75a9a49b7f70800000000000000
+      internalID: 9186099321299182792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3035200009e9338a0800000000000000
+      internalID: -6326538710212783357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68abb736c0d3e9b10800000000000000
+      internalID: 1990095208762292870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_135
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cf5ed168e35f280800000000000000
+      internalID: -9010226733736657800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_136
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e656df9c35ff463e0800000000000000
+      internalID: -2061241994092649106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11425fcbf8cb45830800000000000000
+      internalID: 4059076489704186897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841148753a8df6e0800000000000000
+      internalID: -1802132313622899583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ac9b25aaabf090800000000000000
+      internalID: -7999612686715541047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb29e863e276270800000000000000
+      internalID: 8243608454780075485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb40735d6c9bd80800000000000000
+      internalID: -8234331824616849495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48777dbf153e2fee0800000000000000
+      internalID: -1228669807061665916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ddcdbbd6fe6580800000000000000
+      internalID: -8831850395584310606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd3b4770e5eab4b0800000000000000
+      internalID: -5423770048977486411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c210a003b339f600800000000000000
+      internalID: 502489677331174080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_146
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa7b5cc2a6236b0800000000000000
+      internalID: -5318071469442880931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_147
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b424a30f015afc70800000000000000
+      internalID: 9005599529808176305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfb2c462a832050800000000000000
+      internalID: 5774611044310449658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea683e38bd69f59e0800000000000000
+      internalID: -1630418670530099538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a3983fbc42cbf70800000000000000
+      internalID: 9204272196821269121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551d7935a43515560800000000000000
+      internalID: 7300708049639428437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f619e6d463af05e0800000000000000
+      internalID: -1941153260875737353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_153
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f7e02d28e91d1c0800000000000000
+      internalID: -4480625869549830245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_154
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0b817d77770df0800000000000000
+      internalID: -214071076617254286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_155
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc0550f9de9e80b0800000000000000
+      internalID: -5724463417464124206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ccea1c190d09850800000000000000
+      internalID: 6381829996422286356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_157
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0373d116195570800000000000000
+      internalID: 8455814041182603867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_158
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3347aee6470b8e0800000000000000
+      internalID: -1679714641280486463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3c588a1544a54b0800000000000000
+      internalID: -5450969281468185647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5ba04947f34bf0800000000000000
+      internalID: -341157252760379975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e9c0688fcfde890800000000000000
+      internalID: -7427002066133016949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ed5ffb3752d4490800000000000000
+      internalID: -7760505403817468394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7c9dd4023f94a0800000000000000
+      internalID: -6584489133713096919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_164
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102e50dfd860408e0800000000000000
+      internalID: -1728249150098251263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637428c742e2bb50800000000000000
+      internalID: 6607592401234326377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111def39f3ff6cb0800000000000000
+      internalID: -4868404420319309548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5dfadbdaaaa0670800000000000000
+      internalID: 8505798509431084507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_168
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f52d96684e59b0800000000000000
+      internalID: -5089550923321706434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StormBorder22_169
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b9ef76d9b0c0aa0800000000000000
+      internalID: -6193562616858764451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

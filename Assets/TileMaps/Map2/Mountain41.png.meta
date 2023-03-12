@@ -1,0 +1,2144 @@
+fileFormatVersion: 2
+guid: a4dac20675545154eb35edd462887088
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4160873584948637707
+    second: Mountain41_0
+  - first:
+      213: -3888168376520706763
+    second: Mountain41_1
+  - first:
+      213: 990059646279026116
+    second: Mountain41_2
+  - first:
+      213: -2485981718591294138
+    second: Mountain41_3
+  - first:
+      213: 3147023753304898296
+    second: Mountain41_4
+  - first:
+      213: -8750455434761641209
+    second: Mountain41_5
+  - first:
+      213: 2739259364481788137
+    second: Mountain41_6
+  - first:
+      213: 7214492809890110270
+    second: Mountain41_7
+  - first:
+      213: -6180308708534566165
+    second: Mountain41_8
+  - first:
+      213: -7468967049392307313
+    second: Mountain41_9
+  - first:
+      213: -7866300760325401476
+    second: Mountain41_10
+  - first:
+      213: -7614570603207142315
+    second: Mountain41_11
+  - first:
+      213: -313099601736070591
+    second: Mountain41_12
+  - first:
+      213: -6321939864526923709
+    second: Mountain41_13
+  - first:
+      213: -5554366401091104663
+    second: Mountain41_14
+  - first:
+      213: -2628094472680330187
+    second: Mountain41_15
+  - first:
+      213: -1744690650484326664
+    second: Mountain41_16
+  - first:
+      213: 5332316162094331247
+    second: Mountain41_17
+  - first:
+      213: -5322081483117085317
+    second: Mountain41_18
+  - first:
+      213: -4656211783690641688
+    second: Mountain41_19
+  - first:
+      213: 7975858259862223637
+    second: Mountain41_20
+  - first:
+      213: 1224183566246757922
+    second: Mountain41_21
+  - first:
+      213: -3640020530710307331
+    second: Mountain41_22
+  - first:
+      213: 3473421291930749997
+    second: Mountain41_23
+  - first:
+      213: -5959601213485301470
+    second: Mountain41_24
+  - first:
+      213: 7947527612135036987
+    second: Mountain41_25
+  - first:
+      213: -9033988130896151952
+    second: Mountain41_26
+  - first:
+      213: -8924857914515623358
+    second: Mountain41_27
+  - first:
+      213: 6310983080712159336
+    second: Mountain41_28
+  - first:
+      213: -2056571215331947823
+    second: Mountain41_29
+  - first:
+      213: -4586804895702688797
+    second: Mountain41_30
+  - first:
+      213: -8190224424032939448
+    second: Mountain41_31
+  - first:
+      213: -25158680941187287
+    second: Mountain41_32
+  - first:
+      213: -5422764809042913125
+    second: Mountain41_33
+  - first:
+      213: 2724542378352919465
+    second: Mountain41_34
+  - first:
+      213: -6506946781861217098
+    second: Mountain41_35
+  - first:
+      213: 5464311168301282138
+    second: Mountain41_36
+  - first:
+      213: -7432787978515269483
+    second: Mountain41_37
+  - first:
+      213: 795015550216777552
+    second: Mountain41_38
+  - first:
+      213: -3135380673953766547
+    second: Mountain41_39
+  - first:
+      213: -1670923973758196784
+    second: Mountain41_40
+  - first:
+      213: 3137755062857216338
+    second: Mountain41_41
+  - first:
+      213: 567985265745622867
+    second: Mountain41_42
+  - first:
+      213: -418105364865654903
+    second: Mountain41_43
+  - first:
+      213: 3475084919825840218
+    second: Mountain41_44
+  - first:
+      213: -6505565768665589019
+    second: Mountain41_45
+  - first:
+      213: 7602746445678455330
+    second: Mountain41_46
+  - first:
+      213: 3137197960390721584
+    second: Mountain41_47
+  - first:
+      213: 1552333464007225761
+    second: Mountain41_48
+  - first:
+      213: -7336991864272920620
+    second: Mountain41_49
+  - first:
+      213: -3808429060806149332
+    second: Mountain41_50
+  - first:
+      213: -4673243847119475738
+    second: Mountain41_51
+  - first:
+      213: -8594656092163304431
+    second: Mountain41_52
+  - first:
+      213: 7902185397554189991
+    second: Mountain41_53
+  - first:
+      213: 4566272738586880125
+    second: Mountain41_54
+  - first:
+      213: 30301436917158336
+    second: Mountain41_55
+  - first:
+      213: -3236972514750937753
+    second: Mountain41_56
+  - first:
+      213: -7024444941369129053
+    second: Mountain41_57
+  - first:
+      213: 5281427875802609333
+    second: Mountain41_58
+  - first:
+      213: -7861438969988986939
+    second: Mountain41_59
+  - first:
+      213: -669987279502036701
+    second: Mountain41_60
+  - first:
+      213: -6560658504481736383
+    second: Mountain41_61
+  - first:
+      213: -8502367520896525710
+    second: Mountain41_62
+  - first:
+      213: -5099378370517061675
+    second: Mountain41_63
+  - first:
+      213: -3991842168161467064
+    second: Mountain41_64
+  - first:
+      213: 748869984817410926
+    second: Mountain41_65
+  - first:
+      213: -7944244677633759501
+    second: Mountain41_66
+  - first:
+      213: -3586291265621714997
+    second: Mountain41_67
+  - first:
+      213: -7233603476977586116
+    second: Mountain41_68
+  - first:
+      213: -7846783583675165830
+    second: Mountain41_69
+  - first:
+      213: 6556548267028096288
+    second: Mountain41_70
+  - first:
+      213: 5342511107386535245
+    second: Mountain41_71
+  - first:
+      213: 1875340960360928651
+    second: Mountain41_72
+  - first:
+      213: -1042219829671355697
+    second: Mountain41_73
+  - first:
+      213: -439336987945811044
+    second: Mountain41_74
+  - first:
+      213: 933802498465219288
+    second: Mountain41_75
+  - first:
+      213: 9182418856021373619
+    second: Mountain41_76
+  - first:
+      213: 2478558421041620716
+    second: Mountain41_77
+  - first:
+      213: -3667144651914056707
+    second: Mountain41_78
+  - first:
+      213: -6467422526054084284
+    second: Mountain41_79
+  - first:
+      213: 6118150518455459968
+    second: Mountain41_80
+  - first:
+      213: -9056786079304312794
+    second: Mountain41_81
+  - first:
+      213: 9176464014027281686
+    second: Mountain41_82
+  - first:
+      213: 7498357232255646331
+    second: Mountain41_83
+  - first:
+      213: 904624591401361076
+    second: Mountain41_84
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mountain41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007b22fa746eb930800000000000000
+      internalID: 4160873584948637707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535739246737a0ac0800000000000000
+      internalID: -3888168376520706763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c509e2b0066dbd00800000000000000
+      internalID: 990059646279026116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64530495cc4008dd0800000000000000
+      internalID: -2485981718591294138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa74731e697cab20800000000000000
+      internalID: 3147023753304898296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703652cd423209680800000000000000
+      internalID: -8750455434761641209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e86997f0edc30620800000000000000
+      internalID: 2739259364481788137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1c109cf60f1460800000000000000
+      internalID: 7214492809890110270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24b8969f12b3aa0800000000000000
+      internalID: -6180308708534566165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83cfd57a06e85890800000000000000
+      internalID: -7468967049392307313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c745b6cc22945d290800000000000000
+      internalID: -7866300760325401476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 756
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d4be416c935690800000000000000
+      internalID: -7614570603207142315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a84333295a7abf0800000000000000
+      internalID: -313099601736070591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348dd733035f348a0800000000000000
+      internalID: -6321939864526923709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960999ebf2deae2b0800000000000000
+      internalID: -5554366401091104663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ca8b75002278bd0800000000000000
+      internalID: -2628094472680330187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febfeed81d99c7e0800000000000000
+      internalID: -1744690650484326664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f4bf2c41300a40800000000000000
+      internalID: 5332316162094331247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3f15b61b2426b0800000000000000
+      internalID: -5322081483117085317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee912a6d00d16fb0800000000000000
+      internalID: -4656211783690641688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bf3f554d0ffae60800000000000000
+      internalID: 7975858259862223637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226420ea77c2df010800000000000000
+      internalID: 1224183566246757922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd12ebec9c0c7dc0800000000000000
+      internalID: -3640020530710307331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 660
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c8fc41342143030800000000000000
+      internalID: 3473421291930749997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c83b854e3b4da0800000000000000
+      internalID: -5959601213485301470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38dae3614a4b4e60800000000000000
+      internalID: 7947527612135036987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af6d8b8a3d0a280800000000000000
+      internalID: -9033988130896151952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242767e3309842480800000000000000
+      internalID: -8924857914515623358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8604955ccad159750800000000000000
+      internalID: 6310983080712159336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da88d630679573e0800000000000000
+      internalID: -2056571215331947823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5e91df356850c0800000000000000
+      internalID: -4586804895702688797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842d9cea74a765e80800000000000000
+      internalID: -8190224424032939448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fab7f105e96aff0800000000000000
+      internalID: -25158680941187287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98128023287eb4b0800000000000000
+      internalID: -5422764809042913125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3493d9bd48fc520800000000000000
+      internalID: 2724542378352919465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_35
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc7ace806ea2b5a0800000000000000
+      internalID: -6506946781861217098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a533cc07e0225db40800000000000000
+      internalID: 5464311168301282138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598bdc1d6be69d890800000000000000
+      internalID: -7432787978515269483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f25954e66780b00800000000000000
+      internalID: 795015550216777552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636c5593e3ec74d0800000000000000
+      internalID: -3135380673953766547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36571bf7fafc8e0800000000000000
+      internalID: -1670923973758196784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b9c9ea9b8b8b20800000000000000
+      internalID: 3137755062857216338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577c620793e1e700800000000000000
+      internalID: 567985265745622867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f5f78c267923af0800000000000000
+      internalID: -418105364865654903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a583982a25bf93030800000000000000
+      internalID: 3475084919825840218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea1fbfb66697b5a0800000000000000
+      internalID: -6505565768665589019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a270c7c91628960800000000000000
+      internalID: 7602746445678455330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_47
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 468
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0304b236ce0998b20800000000000000
+      internalID: 3137197960390721584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a13a179f0ffa8510800000000000000
+      internalID: 1552333464007225761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd412c5c4cd2a90800000000000000
+      internalID: -7336991864272920620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bff5672fdb52bc0800000000000000
+      internalID: -3808429060806149332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe9af1b7d452fb0800000000000000
+      internalID: -4673243847119475738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11495f312d5a9b880800000000000000
+      internalID: -8594656092163304431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61f7260c33aad60800000000000000
+      internalID: 7902185397554189991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d786503dcd8ae5f30800000000000000
+      internalID: 4566272738586880125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_55
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c191af0ff6ab6000800000000000000
+      internalID: 30301436917158336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654196e5a6f313d0800000000000000
+      internalID: -3236972514750937753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_57
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7476dfa88248e90800000000000000
+      internalID: -7024444941369129053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 372
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b67f0cbba66b4940800000000000000
+      internalID: 5281427875802609333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c46298ee86e290800000000000000
+      internalID: -7861438969988986939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32130497e1ab3b6f0800000000000000
+      internalID: -669987279502036701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14978bb99dbd3f4a0800000000000000
+      internalID: -6560658504481736383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad42789c5810a80800000000000000
+      internalID: -8502367520896525710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df2502c36e5b39b0800000000000000
+      internalID: -5099378370517061675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8458f4f92b02a98c0800000000000000
+      internalID: -3991842168161467064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e637ef39845846a00800000000000000
+      internalID: 748869984817410926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f62adc5e8f50c190800000000000000
+      internalID: -7944244677633759501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7188b481fea3ec0800000000000000
+      internalID: -3586291265621714997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_68
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3078b486f31d9b90800000000000000
+      internalID: -7233603476977586116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_69
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 276
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73dca997ef9a1390800000000000000
+      internalID: -7846783583675165830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025a9e829e98dfa50800000000000000
+      internalID: 6556548267028096288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6a5cdb89642a40800000000000000
+      internalID: 5342511107386535245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b859d0fdaac860a10800000000000000
+      internalID: 1875340960360928651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca129a369a4981f0800000000000000
+      internalID: -1042219829671355697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93ccc0565927e9f0800000000000000
+      internalID: -439336987945811044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24463cc6885fc00800000000000000
+      internalID: 933802498465219288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_76
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b00c8c418e6f70800000000000000
+      internalID: 9182418856021373619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62d3180cb956220800000000000000
+      internalID: 2478558421041620716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 180
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb60b25e5fab1dc0800000000000000
+      internalID: -3667144651914056707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 84
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441df2a7a791f36a0800000000000000
+      internalID: -6467422526054084284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080e8ee2b7908e450800000000000000
+      internalID: 6118150518455459968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6281d58bb05df4280800000000000000
+      internalID: -9056786079304312794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 84
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615504ad669595f70800000000000000
+      internalID: 9176464014027281686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 84
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a349bbc248f0860800000000000000
+      internalID: 7498357232255646331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mountain41_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 84
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9f81e54fdd8c00800000000000000
+      internalID: 904624591401361076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

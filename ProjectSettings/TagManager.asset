@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - player
+  - Missile
+  - Map
+  - Point
+  - PlayerBullet
+  - Enemy
+  - EnemyBullet
+  - EnemyMissile
+  - PlayerMissile
+  - Nothing
+  - BarrerasElectricas
+  - TriggersBarreras
+  - TriggerMirilla
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerBullet
+  - Player
+  - EnemyBullet
+  - Enemy
+  - EnemyMissile
+  - PatrolPointer
+  - PlayerMissile
+  - Map
+  - Music
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Minimap
+    uniqueID: 1986356529
+    locked: 0
+  - name: Background
+    uniqueID: 2114731249
+    locked: 0
+  - name: Obstacle
+    uniqueID: 647729589
+    locked: 0
+  - name: Player
+    uniqueID: 3918069751
+    locked: 0
+  - name: Ammunitions
+    uniqueID: 482731635
+    locked: 0
+  - name: Effects
+    uniqueID: 3160126401
+    locked: 0
+  - name: PatrolPointer
+    uniqueID: 2568267767
+    locked: 0

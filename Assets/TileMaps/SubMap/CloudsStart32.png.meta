@@ -1,0 +1,4184 @@
+fileFormatVersion: 2
+guid: 19b7255263b10624cba7ae39ff58c76a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6217557147462825970
+    second: CloudsStart32_0
+  - first:
+      213: -9115576758190032292
+    second: CloudsStart32_1
+  - first:
+      213: -656570246470671611
+    second: CloudsStart32_2
+  - first:
+      213: 369403618218970200
+    second: CloudsStart32_3
+  - first:
+      213: -8763797030024525906
+    second: CloudsStart32_4
+  - first:
+      213: -5382641319896567900
+    second: CloudsStart32_5
+  - first:
+      213: -5009079435598177410
+    second: CloudsStart32_6
+  - first:
+      213: 11018047790189066
+    second: CloudsStart32_7
+  - first:
+      213: 2378735770678897322
+    second: CloudsStart32_8
+  - first:
+      213: -1232783532637676842
+    second: CloudsStart32_9
+  - first:
+      213: -2250547511555407688
+    second: CloudsStart32_10
+  - first:
+      213: -1353356031382279968
+    second: CloudsStart32_11
+  - first:
+      213: 278057459435130680
+    second: CloudsStart32_12
+  - first:
+      213: -1951186665153794931
+    second: CloudsStart32_13
+  - first:
+      213: -6016158835047426521
+    second: CloudsStart32_14
+  - first:
+      213: -6144781796863625475
+    second: CloudsStart32_15
+  - first:
+      213: 9181281105727288728
+    second: CloudsStart32_16
+  - first:
+      213: -7349236453474678819
+    second: CloudsStart32_17
+  - first:
+      213: 2058541862240974946
+    second: CloudsStart32_18
+  - first:
+      213: -2544172112794639075
+    second: CloudsStart32_19
+  - first:
+      213: 1953081609482314271
+    second: CloudsStart32_20
+  - first:
+      213: -8883791080606727613
+    second: CloudsStart32_21
+  - first:
+      213: -8474806625463048235
+    second: CloudsStart32_22
+  - first:
+      213: -3672920464813501085
+    second: CloudsStart32_23
+  - first:
+      213: 2277125638881208064
+    second: CloudsStart32_24
+  - first:
+      213: -5888638135996462621
+    second: CloudsStart32_25
+  - first:
+      213: 37871018325457367
+    second: CloudsStart32_26
+  - first:
+      213: -6409702337331590168
+    second: CloudsStart32_27
+  - first:
+      213: 304432840960151243
+    second: CloudsStart32_28
+  - first:
+      213: 6571750680673921153
+    second: CloudsStart32_29
+  - first:
+      213: 8563445235396168426
+    second: CloudsStart32_30
+  - first:
+      213: 4385896693464684057
+    second: CloudsStart32_31
+  - first:
+      213: -6386390609169441011
+    second: CloudsStart32_32
+  - first:
+      213: -506803187974258095
+    second: CloudsStart32_33
+  - first:
+      213: -2350556761975765193
+    second: CloudsStart32_34
+  - first:
+      213: 7578667592848439888
+    second: CloudsStart32_35
+  - first:
+      213: -7817081271877527151
+    second: CloudsStart32_36
+  - first:
+      213: 2269320527197398972
+    second: CloudsStart32_37
+  - first:
+      213: 2312593868024443825
+    second: CloudsStart32_38
+  - first:
+      213: -9186813996940761038
+    second: CloudsStart32_39
+  - first:
+      213: -6836737515666436440
+    second: CloudsStart32_40
+  - first:
+      213: 5145505589321702738
+    second: CloudsStart32_41
+  - first:
+      213: 3537004589743766379
+    second: CloudsStart32_42
+  - first:
+      213: 3661324644347214972
+    second: CloudsStart32_43
+  - first:
+      213: -2579105833354774249
+    second: CloudsStart32_44
+  - first:
+      213: 2379793640387140581
+    second: CloudsStart32_45
+  - first:
+      213: -5298439386427952490
+    second: CloudsStart32_46
+  - first:
+      213: 7949604329716625616
+    second: CloudsStart32_47
+  - first:
+      213: 3498540307287830127
+    second: CloudsStart32_48
+  - first:
+      213: 8962185866840131545
+    second: CloudsStart32_49
+  - first:
+      213: -7682054960825295370
+    second: CloudsStart32_50
+  - first:
+      213: -8738556720334758629
+    second: CloudsStart32_51
+  - first:
+      213: -6348298041342138404
+    second: CloudsStart32_52
+  - first:
+      213: 2020975187273177713
+    second: CloudsStart32_53
+  - first:
+      213: -2326721542772678363
+    second: CloudsStart32_54
+  - first:
+      213: 629200022127115322
+    second: CloudsStart32_55
+  - first:
+      213: 2242980708406177206
+    second: CloudsStart32_56
+  - first:
+      213: 9073972011890453015
+    second: CloudsStart32_57
+  - first:
+      213: 7021001660728307429
+    second: CloudsStart32_58
+  - first:
+      213: 3706146551138811859
+    second: CloudsStart32_59
+  - first:
+      213: -5432865863290681169
+    second: CloudsStart32_60
+  - first:
+      213: 1248232732484088433
+    second: CloudsStart32_61
+  - first:
+      213: -8341733246440708902
+    second: CloudsStart32_62
+  - first:
+      213: 6133408456063035967
+    second: CloudsStart32_63
+  - first:
+      213: 6322792217835500988
+    second: CloudsStart32_64
+  - first:
+      213: 4756535078572508341
+    second: CloudsStart32_65
+  - first:
+      213: 6122278580732878622
+    second: CloudsStart32_66
+  - first:
+      213: -2700047286183160097
+    second: CloudsStart32_67
+  - first:
+      213: -1232658278585366092
+    second: CloudsStart32_68
+  - first:
+      213: -8271635242221582601
+    second: CloudsStart32_69
+  - first:
+      213: 586983994360803749
+    second: CloudsStart32_70
+  - first:
+      213: -8759938907394690084
+    second: CloudsStart32_71
+  - first:
+      213: 7964256468350287215
+    second: CloudsStart32_72
+  - first:
+      213: -1515410983515602243
+    second: CloudsStart32_73
+  - first:
+      213: -5067585975859304133
+    second: CloudsStart32_74
+  - first:
+      213: 6965273953578852354
+    second: CloudsStart32_75
+  - first:
+      213: 1736156657104091877
+    second: CloudsStart32_76
+  - first:
+      213: 8746509801543073490
+    second: CloudsStart32_77
+  - first:
+      213: 4160198010675275957
+    second: CloudsStart32_78
+  - first:
+      213: 7422451425870232976
+    second: CloudsStart32_79
+  - first:
+      213: -1064561791536815522
+    second: CloudsStart32_80
+  - first:
+      213: -415755397128967895
+    second: CloudsStart32_81
+  - first:
+      213: 3829613761167069787
+    second: CloudsStart32_82
+  - first:
+      213: 5354600566132509778
+    second: CloudsStart32_83
+  - first:
+      213: -7762631433206678235
+    second: CloudsStart32_84
+  - first:
+      213: 5283039477599919859
+    second: CloudsStart32_85
+  - first:
+      213: 6291203225593876848
+    second: CloudsStart32_86
+  - first:
+      213: 7624648213977730736
+    second: CloudsStart32_87
+  - first:
+      213: 7848282878199808422
+    second: CloudsStart32_88
+  - first:
+      213: 529360641497881020
+    second: CloudsStart32_89
+  - first:
+      213: -6161391335575386284
+    second: CloudsStart32_90
+  - first:
+      213: -5780955803064927988
+    second: CloudsStart32_91
+  - first:
+      213: -8338737290555652929
+    second: CloudsStart32_92
+  - first:
+      213: -3074805967388841757
+    second: CloudsStart32_93
+  - first:
+      213: 4044947467645399503
+    second: CloudsStart32_94
+  - first:
+      213: 7075571593177786392
+    second: CloudsStart32_95
+  - first:
+      213: -7237872431384462363
+    second: CloudsStart32_96
+  - first:
+      213: -4472337459440934018
+    second: CloudsStart32_97
+  - first:
+      213: -5486101279646358595
+    second: CloudsStart32_98
+  - first:
+      213: -7666619637892500372
+    second: CloudsStart32_99
+  - first:
+      213: -167253482671972091
+    second: CloudsStart32_100
+  - first:
+      213: 895468408862544695
+    second: CloudsStart32_101
+  - first:
+      213: 443117558996348573
+    second: CloudsStart32_102
+  - first:
+      213: 7547077880943591067
+    second: CloudsStart32_103
+  - first:
+      213: 1869958258708894932
+    second: CloudsStart32_104
+  - first:
+      213: -5908359616663307093
+    second: CloudsStart32_105
+  - first:
+      213: -5845322537522979035
+    second: CloudsStart32_106
+  - first:
+      213: -6660333407015516798
+    second: CloudsStart32_107
+  - first:
+      213: -3232938855110546160
+    second: CloudsStart32_108
+  - first:
+      213: -9174052648664564415
+    second: CloudsStart32_109
+  - first:
+      213: -2657382474489536057
+    second: CloudsStart32_110
+  - first:
+      213: -8432258792262530823
+    second: CloudsStart32_111
+  - first:
+      213: -3241244118192189979
+    second: CloudsStart32_112
+  - first:
+      213: 8433316560082536434
+    second: CloudsStart32_113
+  - first:
+      213: 3576694052415177496
+    second: CloudsStart32_114
+  - first:
+      213: -5729022830497664362
+    second: CloudsStart32_115
+  - first:
+      213: -464537988055967485
+    second: CloudsStart32_116
+  - first:
+      213: -3599515763509936584
+    second: CloudsStart32_117
+  - first:
+      213: 6608170354049862378
+    second: CloudsStart32_118
+  - first:
+      213: -408349578795166911
+    second: CloudsStart32_119
+  - first:
+      213: -5866703752236894583
+    second: CloudsStart32_120
+  - first:
+      213: 5325531756401895966
+    second: CloudsStart32_121
+  - first:
+      213: 6817246402275971216
+    second: CloudsStart32_122
+  - first:
+      213: -513769738154505888
+    second: CloudsStart32_123
+  - first:
+      213: 1261390977202152328
+    second: CloudsStart32_124
+  - first:
+      213: -7099141877184347764
+    second: CloudsStart32_125
+  - first:
+      213: 8402980702435609861
+    second: CloudsStart32_126
+  - first:
+      213: 5604755168144488907
+    second: CloudsStart32_127
+  - first:
+      213: 1311601701173773429
+    second: CloudsStart32_128
+  - first:
+      213: -8175313686174884416
+    second: CloudsStart32_129
+  - first:
+      213: 3302874604134412662
+    second: CloudsStart32_130
+  - first:
+      213: -1849444289947429483
+    second: CloudsStart32_131
+  - first:
+      213: 4750912086070946878
+    second: CloudsStart32_132
+  - first:
+      213: 5258752653381541420
+    second: CloudsStart32_133
+  - first:
+      213: -6589893046990477407
+    second: CloudsStart32_134
+  - first:
+      213: -8871246438166175948
+    second: CloudsStart32_135
+  - first:
+      213: 1868713955259373725
+    second: CloudsStart32_136
+  - first:
+      213: -244899738332705880
+    second: CloudsStart32_137
+  - first:
+      213: -5823562851371025282
+    second: CloudsStart32_138
+  - first:
+      213: -5093716827247297031
+    second: CloudsStart32_139
+  - first:
+      213: 7016577230650854405
+    second: CloudsStart32_140
+  - first:
+      213: 3085110170810824734
+    second: CloudsStart32_141
+  - first:
+      213: -8880103200915443441
+    second: CloudsStart32_142
+  - first:
+      213: 1710370489622051328
+    second: CloudsStart32_143
+  - first:
+      213: -8723378714717423372
+    second: CloudsStart32_144
+  - first:
+      213: -8563612186970183013
+    second: CloudsStart32_145
+  - first:
+      213: 8395763738495025073
+    second: CloudsStart32_146
+  - first:
+      213: -8479361247479527910
+    second: CloudsStart32_147
+  - first:
+      213: -2496022424631450080
+    second: CloudsStart32_148
+  - first:
+      213: 6164737364969741715
+    second: CloudsStart32_149
+  - first:
+      213: -469586942751529577
+    second: CloudsStart32_150
+  - first:
+      213: 8819183092098245984
+    second: CloudsStart32_151
+  - first:
+      213: 7241224859640816139
+    second: CloudsStart32_152
+  - first:
+      213: -1348017633445605741
+    second: CloudsStart32_153
+  - first:
+      213: -6394863622946956964
+    second: CloudsStart32_154
+  - first:
+      213: -7775631915641196189
+    second: CloudsStart32_155
+  - first:
+      213: -9099789386551992898
+    second: CloudsStart32_156
+  - first:
+      213: 9065614131764557678
+    second: CloudsStart32_157
+  - first:
+      213: 7493701831966871020
+    second: CloudsStart32_158
+  - first:
+      213: 7140629713688282531
+    second: CloudsStart32_159
+  - first:
+      213: -3742264820640704142
+    second: CloudsStart32_160
+  - first:
+      213: -6090257990390995698
+    second: CloudsStart32_161
+  - first:
+      213: 3244480884355684633
+    second: CloudsStart32_162
+  - first:
+      213: -2558244138849095408
+    second: CloudsStart32_163
+  - first:
+      213: -281655072972907583
+    second: CloudsStart32_164
+  - first:
+      213: -225956666945598664
+    second: CloudsStart32_165
+  - first:
+      213: -8698197900189710132
+    second: CloudsStart32_166
+  - first:
+      213: -3003661992299708571
+    second: CloudsStart32_167
+  - first:
+      213: -5573824987560061352
+    second: CloudsStart32_168
+  - first:
+      213: -1449413141049626438
+    second: CloudsStart32_169
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CloudsStart32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1588
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f776399843394650800000000000000
+      internalID: 6217557147462825970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1588
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ab64d1c37fe7180800000000000000
+      internalID: -9115576758190032292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1588
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5036609e6d463e6f0800000000000000
+      internalID: -656570246470671611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8fa232a2602500800000000000000
+      internalID: 369403618218970200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c3c5a80db06680800000000000000
+      internalID: -8763797030024525906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa93eec340d45b0800000000000000
+      internalID: -5382641319896567900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd475eacc2c7ab0800000000000000
+      internalID: -5009079435598177410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1492
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a07a82bd4272000800000000000000
+      internalID: 11018047790189066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa4d19497f20120800000000000000
+      internalID: 2378735770678897322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da1e2c98e544eee0800000000000000
+      internalID: -1232783532637676842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c99f46f274c0e0800000000000000
+      internalID: -2250547511555407688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a3de1cd9e73de0800000000000000
+      internalID: -1353356031382279968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f47c049cbdbd300800000000000000
+      internalID: 278057459435130680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c670dd01efbe4e0800000000000000
+      internalID: -1951186665153794931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269bac1a6f428ca0800000000000000
+      internalID: -6016158835047426521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df638af138959baa0800000000000000
+      internalID: -6144781796863625475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89571e965867a6f70800000000000000
+      internalID: 9181281105727288728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1396
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74a4c2264420a90800000000000000
+      internalID: -7349236453474678819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f426cae8619c10800000000000000
+      internalID: 2058541862240974946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ab6961f841bcd0800000000000000
+      internalID: -2544172112794639075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12aa8e306dba1b10800000000000000
+      internalID: 1953081609482314271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34207ad941f66b480800000000000000
+      internalID: -8883791080606727613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e52d8640736a80800000000000000
+      internalID: -8474806625463048235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36557861c4a270dc0800000000000000
+      internalID: -3672920464813501085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e27e24b9f99f10800000000000000
+      internalID: 2277125638881208064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9cc1d80da574ea0800000000000000
+      internalID: -5888638135996462621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d932929d7b868000800000000000000
+      internalID: 37871018325457367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1300
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0c5b2fa92c07a0800000000000000
+      internalID: -6409702337331590168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce846f4e00993400800000000000000
+      internalID: 304432840960151243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188200aec6c833b50800000000000000
+      internalID: 6571750680673921153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacc4d021877d670800000000000000
+      internalID: 8563445235396168426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d5832ec5dddc30800000000000000
+      internalID: 4385896693464684057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9097d39bfe57a0800000000000000
+      internalID: -6386390609169441011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15242c98f2977f8f0800000000000000
+      internalID: -506803187974258095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737ca0a2415216fd0800000000000000
+      internalID: -2350556761975765193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05afe7ea506dc2960800000000000000
+      internalID: 7578667592848439888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999169fff5248390800000000000000
+      internalID: -7817081271877527151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76a110ffe3e7f10800000000000000
+      internalID: 2269320527197398972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f75dcedbf71020800000000000000
+      internalID: 2312593868024443825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23862c6f751e18080800000000000000
+      internalID: -9186813996940761038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8d1cb3770f11a0800000000000000
+      internalID: -6836737515666436440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9e494212886740800000000000000
+      internalID: 5145505589321702738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7a9c3fe6f51130800000000000000
+      internalID: 3537004589743766379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf2b19d53afc230800000000000000
+      internalID: 3661324644347214972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_44
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71930c4c8ec253cd0800000000000000
+      internalID: -2579105833354774249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb520e05b9b60120800000000000000
+      internalID: 2379793640387140581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f50c43792876b0800000000000000
+      internalID: -5298439386427952490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_47
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0baa1e40ba25e60800000000000000
+      internalID: 7949604329716625616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1108
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee6489fdf4d8030800000000000000
+      internalID: 3498540307287830127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7480cef84106c70800000000000000
+      internalID: 8962185866840131545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1bf2e6bbd36590800000000000000
+      internalID: -7682054960825295370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d18d236f86ab680800000000000000
+      internalID: -8738556720334758629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd76e7de09056e7a0800000000000000
+      internalID: -6348298041342138404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17adb49a932fb0c10800000000000000
+      internalID: 2020975187273177713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52129c79513d5bfd0800000000000000
+      internalID: -2326721542772678363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cfd83261e5bb800800000000000000
+      internalID: 629200022127115322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdaa9a021ba02f10800000000000000
+      internalID: 2242980708406177206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a219608793ded70800000000000000
+      internalID: 9073972011890453015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6323cfcb9f6160800000000000000
+      internalID: 7021001660728307429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1012
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dffa2af6a0ee6330800000000000000
+      internalID: 3706146551138811859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8863a28459a94b0800000000000000
+      internalID: -5432865863290681169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172bab88e0d925110800000000000000
+      internalID: 1248232732484088433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e5da0fc53c3c80800000000000000
+      internalID: -8341733246440708902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aa30e9e7e3e1550800000000000000
+      internalID: 6133408456063035967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb570b4c5021fb750800000000000000
+      internalID: 6322792217835500988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4cff7e37b920240800000000000000
+      internalID: 4756535078572508341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd0949ee3b6f450800000000000000
+      internalID: 6122278580732878622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69b467c41878ad0800000000000000
+      internalID: -2700047286183160097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9897793d7b4eee0800000000000000
+      internalID: -1232658278585366092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_69
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6c7cb729f353d80800000000000000
+      internalID: -8271635242221582601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 916
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a137b835d2652800800000000000000
+      internalID: 586983994360803749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3bd92d9f17e6680800000000000000
+      internalID: -8759938907394690084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d3020cf09b68e60800000000000000
+      internalID: 7964256468350287215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c3de4dbd28fae0800000000000000
+      internalID: -1515410983515602243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a72877615ca9b0800000000000000
+      internalID: -5067585975859304133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002956d1cf99a060800000000000000
+      internalID: 6965273953578852354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea7e15f741181810800000000000000
+      internalID: 1736156657104091877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7271d258d16970800000000000000
+      internalID: 8746509801543073490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8269d8c0efbb930800000000000000
+      internalID: 4160198010675275957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_79
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3699fe38d10760800000000000000
+      internalID: 7422451425870232976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_80
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52aefdd0bae931f0800000000000000
+      internalID: -1064561791536815522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_81
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292da84ba0fa3af0800000000000000
+      internalID: -415755397128967895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b529f45fc65852530800000000000000
+      internalID: 3829613761167069787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c0f6258dc5f4a40800000000000000
+      internalID: 5354600566132509778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d3f65f6d7954490800000000000000
+      internalID: -7762631433206678235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe55b40a60215940800000000000000
+      internalID: 5283039477599919859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071905f5008de4750800000000000000
+      internalID: 6291203225593876848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be857b472130d960800000000000000
+      internalID: 7624648213977730736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_88
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a141eb12b3baec60800000000000000
+      internalID: 7848282878199808422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_89
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9dd82e2baa85700800000000000000
+      internalID: 529360641497881020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570cd889375e7aa0800000000000000
+      internalID: -6161391335575386284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_91
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f410735be5cfa0800000000000000
+      internalID: -5780955803064927988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 724
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb480216d9ad64c80800000000000000
+      internalID: -8338737290555652929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8698083481455d0800000000000000
+      internalID: -3074805967388841757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1be107a4a822830800000000000000
+      internalID: 4044947467645399503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e43240ea713260800000000000000
+      internalID: 7075571593177786392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7cbd1f59ed8b90800000000000000
+      internalID: -7237872431384462363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a95ea6c01fe1c0800000000000000
+      internalID: -4472337459440934018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_98
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ecd8e3f37dd3b0800000000000000
+      internalID: -5486101279646358595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64326f0f02ba9590800000000000000
+      internalID: -7666619637892500372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_100
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e3e9f7dbcdadf0800000000000000
+      internalID: -167253482671972091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73316d106c75d6c00800000000000000
+      internalID: 895468408862544695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e27b97215462600800000000000000
+      internalID: 443117558996348573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_103
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eb9d9b85b9cb860800000000000000
+      internalID: 7547077880943591067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d62bf02d63f910800000000000000
+      internalID: 1869958258708894932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac35838b3a410ea0800000000000000
+      internalID: -5908359616663307093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9b593f1e31eea0800000000000000
+      internalID: -5845322537522979035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854c25ed0eb193a0800000000000000
+      internalID: -6660333407015516798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de3987d3b4223d0800000000000000
+      internalID: -3232938855110546160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dfd95e8b73fa080800000000000000
+      internalID: -9174052648664564415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e3b708b41f1bd0800000000000000
+      internalID: -2657382474489536057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f80701fd499afa80800000000000000
+      internalID: -8432258792262530823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed84d8b5a9c403d0800000000000000
+      internalID: -3241244118192189979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_113
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f78322dab8290570800000000000000
+      internalID: 8433316560082536434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 532
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81385706a48f2a130800000000000000
+      internalID: 3576694052415177496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692751ed61c6e70b0800000000000000
+      internalID: -5729022830497664362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309df3d3921ad89f0800000000000000
+      internalID: -464537988055967485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3290fb73fb0ec0800000000000000
+      internalID: -3599515763509936584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac868ecefe4bb50800000000000000
+      internalID: 6608170354049862378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143dbbbb830455af0800000000000000
+      internalID: -408349578795166911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f77d3508459ea0800000000000000
+      internalID: -5866703752236894583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa564aae618e940800000000000000
+      internalID: 5325531756401895966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09018f9cb79bb9e50800000000000000
+      internalID: 6817246402275971216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_123
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06984fc2529bed8f0800000000000000
+      internalID: -513769738154505888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_124
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883640f196c518110800000000000000
+      internalID: 1261390977202152328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_125
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c3585318ca7d90800000000000000
+      internalID: -7099141877184347764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d032f8d626d9470800000000000000
+      internalID: 8402980702435609861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_127
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97942512718cd40800000000000000
+      internalID: 5604755168144488907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c24d4cceb33210800000000000000
+      internalID: 1311601701173773429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd182064837b8e80800000000000000
+      internalID: -8175313686174884416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_130
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671371df3fa26dd20800000000000000
+      internalID: 3302874604134412662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951fc197347556e0800000000000000
+      internalID: -1849444289947429483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6e51fe51aee140800000000000000
+      internalID: 4750912086070946878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_133
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e137a1da7daf840800000000000000
+      internalID: 5258752653381541420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e052403ffb84a0800000000000000
+      internalID: -6589893046990477407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_135
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd72acd5003e480800000000000000
+      internalID: -8871246438166175948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_136
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 340
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98dc0201710fe910800000000000000
+      internalID: 1868713955259373725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc71b4cf0f99cf0800000000000000
+      internalID: -244899738332705880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7ed4f07c8e2fa0800000000000000
+      internalID: -5823562851371025282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdbe75888b7f49b0800000000000000
+      internalID: -5093716827247297031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc90cd0d3ef5160800000000000000
+      internalID: 7016577230650854405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18bf10da5380da20800000000000000
+      internalID: 3085110170810824734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0130a4003983c480800000000000000
+      internalID: -8880103200915443441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abb3cf5e47cb710800000000000000
+      internalID: 1710370489622051328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f87014074550f680800000000000000
+      internalID: -8723378714717423372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aaf618610f72980800000000000000
+      internalID: -8563612186970183013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_146
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff91333aeb38470800000000000000
+      internalID: 8395763738495025073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_147
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 244
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1605c9fed1435a80800000000000000
+      internalID: -8479361247479527910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ee6c44d85c5dd0800000000000000
+      internalID: -2496022424631450080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5994a8fb8d8550800000000000000
+      internalID: 6164737364969741715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795222ed921bb79f0800000000000000
+      internalID: -469586942751529577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a5a5db48046a70800000000000000
+      internalID: 8819183092098245984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026e99e4affd7460800000000000000
+      internalID: 7241224859640816139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_153
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e038fba11ea4de0800000000000000
+      internalID: -1348017633445605741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_154
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59dd279a61e047a0800000000000000
+      internalID: -6394863622946956964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_155
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361340448f7671490800000000000000
+      internalID: -7775631915641196189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdd2b304cd07b180800000000000000
+      internalID: -9099789386551992898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_157
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67769a65088fcd70800000000000000
+      internalID: 9065614131764557678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_158
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 148
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4413ec1afef760800000000000000
+      internalID: 7493701831966871020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54df454ec981360800000000000000
+      internalID: 7140629713688282531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279154619fdc01cc0800000000000000
+      internalID: -3742264820640704142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a24410ae0b7ba0800000000000000
+      internalID: -6090257990390995698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919d090ac26b60d20800000000000000
+      internalID: 3244480884355684633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011bc27828a4f7cd0800000000000000
+      internalID: -2558244138849095408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_164
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb5342143c571cf0800000000000000
+      internalID: -281655072972907583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b831ccb9d3ddcf0800000000000000
+      internalID: -225956666945598664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c425481bc94780800000000000000
+      internalID: -8698197900189710132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_167
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f32a30559d056d0800000000000000
+      internalID: -3003661992299708571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_168
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856594884bbc5a2b0800000000000000
+      internalID: -5573824987560061352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsStart32_169
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 52
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab034f27d66a2ebe0800000000000000
+      internalID: -1449413141049626438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
